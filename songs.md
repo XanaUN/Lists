@@ -1,7 +1,7 @@
 # Песни
 
-- [] Only You
-- [] Sun Dont Shine
-- [] Fix Me
-- [] Panda
-- [] Mi Gente
+- [ ] Only You
+- [ ] Sun Dont Shine
+- [ ] Fix Me
+- [ ] Panda
+- [ ] Mi Gente
